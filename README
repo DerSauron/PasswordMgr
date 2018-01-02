@@ -1,0 +1,15 @@
+Password Manager
+================
+
+The password manager is a QT5 based application that lets you create secure
+passwords with configurable options. The options can be saved in reusable
+presets.
+
+For users with enabled KWallet-System (KDE5) the passwords can be
+stored in the wallet.
+The kwallet-support can be enabled at compile time
+
+Legal
+====
+Copyright for AES library by Ilya O. Levin, http://www.literatecode.com
+Copyright for icons by Freeiconsweb from http://www.freeiconsweb.com
